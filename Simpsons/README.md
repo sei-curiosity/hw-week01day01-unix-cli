@@ -13,7 +13,7 @@
 [Simpsons Intro](https://www.youtube.com/watch?v=XNzoJqzA6zM).
 
 ## Setup - Create Directory for Lab:
-Navigate to the path `~/sei/homework` and create a new directory called `simpsons` where we will do all of the following work:
+Navigate to the path `~/sei/homeworks` and create a new directory called `simpsons` where we will do all of the following work:
 
 
 ## Simpsons Activity
